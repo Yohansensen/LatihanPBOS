@@ -1,0 +1,56 @@
+Nama="YOHANSEN"
+Tempat="PONTIANAK,15-01-2002" 
+Jeniskelamin="Laki-Laki"
+Agama="ISLAM"
+Pekerjaan="PELAJAR/MAHASISWA"
+Kewarganegaraan="WNI"
+Nomor=62606033067
+Alamat="hansen8877@gmail.com"
+Pendidikan= """
+2019-2021:Program Studi Teknik Informati,STIMIK PONTIANAK
+2018-2015:SMA SANTU PETRUS
+2015-2012:SD NEGERI 12"""
+
+non= """
+2019:Juara 3 basket petrus cup2
+2018:olimpiade fisika
+2018:olimpiade mtk
+2017:olimpiade biologi"""
+
+riwayat= """
+2019-2021:Ketua Rt 014
+2015-2019:Ketua osis sma santu petrus
+2018:organisasi kita bisa
+2017:panitia mpanjat pinang"""
+
+pengalaman="""
+saya baru wisuda oleh karena itu saya belum 
+mempunyai pengalaman kerja tetapi saya telah
+banyak mengikuti organisasi dll
+"""
+
+Penghargaan="""
+piagamam mengikuti organisasi"""
+#cetak
+print ("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+print ("     CURRICULUM VITAE ")
+print("Nama               :",Nama)
+print ("Tempat            :",Tempat)
+print ("JenisKelamin      :",Jeniskelamin)
+print ("Agama             :",Agama)
+print ("Pekerjaan terakhir:",Pekerjaan)
+print ("Kewarganegaraan   :",Kewarganegaraan)
+print ("Nomor             :+",Nomor)
+print ("Alamat Email      :",Alamat)
+print ("________________________________________________________________")
+print ("       "     )
+print ("                   PENDIDIKAN FORMAL    ",Pendidikan)
+print ("________________________________________________________________")
+print ("                   PENDIDIKAN NON-FORMAL    ",non)
+print ("________________________________________________________________")
+print ("                   Riwayat Organisasi    ",riwayat)
+print ("________________________________________________________________")
+print ("                   Pengalaman Kerja    ",pengalaman)
+print ("________________________________________________________________")
+print ("                   Penghargaan    ",Penghargaan)
+print ("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
