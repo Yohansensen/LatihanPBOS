@@ -1,0 +1,32 @@
+Nama="YOHANSEN"
+Alamat= """GG TELUK SAHANG 1 NO 53
+           SIANTAN HILIR PONTIANAK 
+           KOTA PONTIANAK"""
+Tempat="PONTIANAK" 
+Tgl="PONTIANAK" 
+Tinggi="170"
+Pekerjaan="PELAJAR"
+No="020119086673"
+Berlaku="15-01-2024"
+
+#cetak
+print ("_______________________________________________________________")
+print("              KEPOLISIAN NEGARA ")
+print("              REPUBLIK INDONESIA                         A")
+print("             SURAT IZIN MENGEMUDI")
+print("               (Driving License)                       KALBAR")
+print ("_______________________________________________________________")
+print("Nama:",Nama)
+print ("    Alamat :",Alamat)
+print ("            Tempat&     :",Tempat)
+print ("            Tgl Lahir   :",Tgl)
+print ("            Tinggi      :",Tinggi)
+print ("            Pekerjaan   :",Pekerjaan)
+print ("            No          :",No)
+print ("            Berlaku s/d :",Berlaku)
+
+print("               PONTIANAK,23-05-2019")
+print("               KAPOLRESTA")
+print("               TTD")
+print("               MUH.ANWAR NAIR.S.IK.MH")
+print("               OMBES POL NRP.74100533")
