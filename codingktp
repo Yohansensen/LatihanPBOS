@@ -1,0 +1,31 @@
+nik="61719736738490"
+Nama="YOHANSEN"
+Tempat="PONTIANAK,15-01-2002" 
+Jeniskelamin="Laki-Laki"
+Alamat= """Jl.BUDO UTOMO GG
+                    TELUK SAHANG 1
+        RT/RW    :004/13
+        Kel/Desa :SIANTAN HILIR
+        Kecamatan:PONTIANAK UTARA"""
+Agama="ISLAM"
+StatusPerkawinan="BELUM KAWIN"
+Pekerjaan="PELAJAR/MAHASISWA"
+Kewarganegaraan="WNI"
+BerlakuHingga="SEUMUR HIDUP"
+
+#cetak
+print("PROVINSI KALIMANTAN BARAT")
+print ("     KOTA PONTIANAK")
+print("NIK               :",nik)
+print("Nama              :",Nama)
+print ("Tempat           :",Tempat)
+print ("JenisKelamin     :",Jeniskelamin)
+print ("Alamat           :",Alamat)
+print ("Agama            :",Agama)
+print ("StatusPerkawinan :",StatusPerkawinan)
+print ("Pekerjaan        :",Pekerjaan)
+print ("Kewarganegaraan  :",Kewarganegaraan)
+print ("BerlakuHinggu    :",BerlakuHingga)
+print("                                              KOTA PONTIANAK")
+print("                                                29-01-2019")
+print("                                                    TTD")
